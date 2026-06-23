@@ -44,15 +44,20 @@ I love building enterprise-level dashboards and management systems.
 - GitHub
 - VS Code
 - Postman
+- <a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 - ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=raam-14&show_icons=true)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raam-14&layout=compact)
+
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=raam-14)
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -72,6 +77,7 @@ I love building enterprise-level dashboards and management systems.
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
 ## 🚀 Featured Projects
 ### ⚡ EV Bike Dashboard
 
@@ -91,6 +97,7 @@ Features:
 - ## 📷 Project Screenshots
 
 <img src="./assets/dashboard.png" width="700"/>
+
 ## 📚 Currently Learning
 
 - System Design
@@ -98,11 +105,5 @@ Features:
 - Cloud Deployment
 - CI/CD
 - Advanced PostgreSQL
-- ## 📫 Connect With Me
-
-LinkedIn:
-https://www.linkedin.com/in/m-shriraam/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPeSCAqepRxCbnWJKa4%2B9Jw%3D%3D
-
-Email:
-shriraam.m.iot.2023@snsce.ac.in
+  
 

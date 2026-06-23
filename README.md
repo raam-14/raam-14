@@ -45,6 +45,32 @@ I love building enterprise-level dashboards and management systems.
 - VS Code
 - Postman
 
+- ## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### Core Concepts
+
+<p>
+  <img src="https://img.shields.io/badge/DBMS-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOPs-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white"/>
+</p>
+
 
 - ## 📊 GitHub Stats
 

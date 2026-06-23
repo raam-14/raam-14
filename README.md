@@ -53,6 +53,25 @@ I love building enterprise-level dashboards and management systems.
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=raam-14)
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-shriraam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/shriraam-m">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:shriraam.m.iot.2023@snsce.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/919952382296">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 ## 🚀 Featured Projects
 ### ⚡ EV Bike Dashboard
 
@@ -86,3 +105,4 @@ https://www.linkedin.com/in/m-shriraam/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profi
 
 Email:
 shriraam.m.iot.2023@snsce.ac.in
+

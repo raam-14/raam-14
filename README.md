@@ -1,16 +1,88 @@
 ## Hi there 👋
+# Hi 👋, I'm Shriraam M
 
-<!--
-**raam-14/raam-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer from India
 
-Here are some ideas to get you started:
+🔭 Currently working on:
+- EV Bike Admin Dashboard
+- Service Center Management System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Advanced PostgreSQL
+- System Design
+- Node.js Backend Architecture
+
+💬 Ask me about:
+- React
+- TypeScript
+- Tailwind CSS
+- PostgreSQL
+- Dashboard Design
+
+⚡ Fun Fact:
+I love building enterprise-level dashboards and management systems.
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- Tailwind CSS
+- HTML
+- CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- PostgreSQL
+- pgAdmin
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+- ## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+## 🚀 Featured Projects
+### ⚡ EV Bike Dashboard
+
+Admin Dashboard built using:
+- React
+- TypeScript
+- Tailwind CSS
+- PostgreSQL
+
+Features:
+- User Management
+- RSA Tickets
+- Charging Stations
+- Weather Notifications
+- Service Bookings
+
+- ## 📷 Project Screenshots
+
+<img src="./assets/dashboard.png" width="700"/>
+## 📚 Currently Learning
+
+- System Design
+- Docker
+- Cloud Deployment
+- CI/CD
+- Advanced PostgreSQL
+- ## 📫 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/m-shriraam/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPeSCAqepRxCbnWJKa4%2B9Jw%3D%3D
+
+Email:
+shriraam.m.iot.2023@snsce.ac.in

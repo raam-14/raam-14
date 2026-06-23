@@ -47,12 +47,12 @@ I love building enterprise-level dashboards and management systems.
 
 - ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=raam-14&show_icons=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raam-14&layout=compact)
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=raam-14)
 ## 🚀 Featured Projects
 ### ⚡ EV Bike Dashboard
 

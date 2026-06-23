@@ -60,7 +60,7 @@ I love building enterprise-level dashboards and management systems.
 
 <p align="center">
 
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/Shriraam_14">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
   <a href="https://www.linkedin.com/in/m-shriraam/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVy1GkBtFRaSOtKnPmNI9Zg%3D%3D">

@@ -126,6 +126,15 @@ Features:
 
 <img src="./assets/dashboard.png" width="700"/>
 
+## 🏅 Certifications
+
+| Certificate | Issuer |
+|------------|---------|
+| 📜 Azure AI Fundamentals | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) |
+| 📊 Azure Data Fundamentals | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) |
+| 💻 Programming with Python | ![PrepInsta](https://img.shields.io/badge/PrepInsta-FF6B00?style=flat-square) |
+| 🌐 Full Stack Development | ![Internship](https://img.shields.io/badge/Internship-Success-brightgreen?style=flat-square) |
+
 ## 📚 Currently Learning
 
 - System Design

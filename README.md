@@ -44,9 +44,7 @@ I love building enterprise-level dashboards and management systems.
 - GitHub
 - VS Code
 - Postman
-- <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+
 
 - ## 📊 GitHub Stats
 
@@ -59,6 +57,10 @@ I love building enterprise-level dashboards and management systems.
 ![GitHub Streak](https://streak-stats.demolab.com?user=raam-14)
 
 ## 📫 Connect With Me
+
+- <a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-shriraam/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVy1GkBtFRaSOtKnPmNI9Zg%3D%3D">
